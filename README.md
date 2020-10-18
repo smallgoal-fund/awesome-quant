@@ -12,13 +12,13 @@
   + https://github.com/Hvass-Labs/FinanceOps
 + https://github.com/xdite/value-investing-newbie
 
-## framework
+## frameworks
 + https://github.com/vnpy/vnpy
 + https://github.com/freqtrade/freqtrade
 + https://github.com/CoinAlpha/hummingbot
 + https://github.com/hzjken/crypto-arbitrage-framework
 
-## analysis & portfolio tracker
+## analysis & portfolio trackers
 + https://github.com/robertmartin8/PyPortfolioOpt
 + https://github.com/pxsocs/thewarden
   + https://github.com/pxsocs/cryptoanalytics
@@ -26,5 +26,5 @@
 + https://github.com/TechupBusiness/coin-tracker-google-sheets
 + https://github.com/knipknap/stocklist
 
-## misc
+## miscellaneous
 + https://github.com/mr-karan/awesome-investing
