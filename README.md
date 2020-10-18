@@ -5,6 +5,7 @@
 + https://github.com/CryptoSignal/Crypto-Signal
 
 ## strategies
++ https://www.hftquant.com/document
 + https://github.com/fmzquant/strategies
 + https://github.com/freqtrade/freqtrade-strategies
 + https://github.com/Hvass-Labs
