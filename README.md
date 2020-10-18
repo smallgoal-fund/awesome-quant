@@ -24,11 +24,11 @@
 + https://github.com/DeviaVir/zenbot
     + https://github.com/magic8bot/magic8bot
     + https://github.com/rountrey/zenbot_strategies
-+ https://github.com/knowm/XChange
 + https://github.com/maxbbraun/trump2cash
 + https://github.com/ricequant/rqalpha
 + https://github.com/michaelgrosner/tribeca
     + https://github.com/Valroque/custom-tribeca
++ https://github.com/knowm/XChange
 + https://github.com/hzjken/crypto-arbitrage-framework
 
 ## analysis & portfolio trackers
