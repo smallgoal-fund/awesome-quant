@@ -40,4 +40,6 @@
 + https://github.com/knipknap/stocklist
 
 ## miscellaneous
++ https://github.com/thuquant/awesome-quant
++ https://github.com/wilsonfreitas/awesome-quant
 + https://github.com/mr-karan/awesome-investing
